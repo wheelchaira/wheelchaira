@@ -1,0 +1,18 @@
+body { }
+
+.Card {
+  display: grid;
+  grid-column: auto auto;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 300px;
+}
+.Card img {
+    width: 300px;
+    height: 300px;
+}
+.header  {
+    text-align: center;
+    background-color: #00ddbb;
+    font-size: 40px
+}
